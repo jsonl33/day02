@@ -24,5 +24,6 @@ public class Quadrant {
 				System.out.println(3);
 			}
 		}
+		sc.close();
 	}
 }

@@ -23,6 +23,6 @@ public class TestClass01 {
 		System.out.println("======================");
 		System.out.println("합계 : " + (kor + eng + math));
 		System.out.println("======================");
-		
+		sc.close();
 	}
 }

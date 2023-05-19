@@ -62,5 +62,6 @@ public class Dice {
 			price = highest*100;
 			System.out.println(price);
 		}
+		sc.close();
 	}
 }

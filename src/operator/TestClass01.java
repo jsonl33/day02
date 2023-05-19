@@ -13,5 +13,6 @@ public class TestClass01 {
 		
 		String th = (num%3==0)?"3의배수":"3의배수가 아님";
 		System.out.println(num+"는 "+th);
+		sc.close();
 	}
 }
